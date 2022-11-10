@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CSindorf
+- 🌱 I’m learning full stack programming
+- 💞️ I’m more of a front end programmer
+- 📫 See my website: sindorf.com.br
